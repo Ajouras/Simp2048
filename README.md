@@ -5,4 +5,3 @@ Need to workout a bug with GAME OVER
 
 may or maynot do more to this later
 
-Built after 3 days of learning c++
